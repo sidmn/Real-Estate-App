@@ -9,7 +9,7 @@ Now button.
 - Ensure a responsive design.
 - Pagination or Infinite Scroll - Implement pagination or infinite scroll.
 - Booking Modal - Users can enter Name, Check-in Check-out Dates, and Confirm Booking.
-- Search Filter - Implement a search bar and price range filter (₹0 - ₹15,000).
+- Search Filter - Implement a search bar and price range filter (₹0 - ₹25,000).
 - State Management - Use React Hooks (useState, useEffect), Context API, or Props Drilling.
 - Bonus Features: Dark mode toggle, User-friendly toast notifications for successful
 bookings.
