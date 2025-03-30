@@ -1,6 +1,22 @@
-# Welcome to your Expo app 👋
+# Welcome to Real Estate App 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+
+These functionalities were implemented in this app:
+- Property Listing Page (Home Page) - Display a list of 30 properties (static JSON data).
+- Each property card should show: Property Name, Image, Location, Price per night, Book
+Now button.
+- Ensure a responsive design.
+- Pagination or Infinite Scroll - Implement pagination or infinite scroll.
+- Booking Modal - Users can enter Name, Check-in Check-out Dates, and Confirm Booking.
+- Search Filter - Implement a search bar and price range filter (₹0 - ₹15,000).
+- State Management - Use React Hooks (useState, useEffect), Context API, or Props Drilling.
+- Bonus Features: Dark mode toggle, User-friendly toast notifications for successful
+bookings.
+
+Chalenges Faced and Solution:
+- Implementing Date Picker Correctly - Solved by trying out different date picker libraries and configuring them with the help of docs.
+- Designing app in correspondence to Figma file - Took quite some documentation reading to get around and fix issues latent to React Native but I was able to finally land upon a design that I like.
 
 ## Get started
 
